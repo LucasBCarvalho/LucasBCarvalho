@@ -18,9 +18,9 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCrWXBVoprywPEsptEvR-Ocg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/lucas_carvalho.b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF6F00?style=for-the-badge&logo=instagram&logoColor=white"></a>
- 	<a href="https://www.twitch.tv/ulucas02" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
- <a href="https://discord.gg/3pH4j7jV6R" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href = "mailto:lucas.carvalho30111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucas-borges-de-carvalho-57795519b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.youtube.com/channel/UCrWXBVoprywPEsptEvR-Ocg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank"></a>
+  <a href="https://www.instagram.com/lucas_carvalho.b/"><img src="https://img.shields.io/badge/-Instagram-FF6F00?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
+ 	<a href="https://www.twitch.tv/ulucas02"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/3pH4j7jV6R"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucas.carvalho30111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-borges-de-carvalho-57795519b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
