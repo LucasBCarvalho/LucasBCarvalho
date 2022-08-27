@@ -6,12 +6,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBorgesDeCarvalho&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Lucas-Kotlin" height="28" width="38" src="https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-1-logo.png">  
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_black">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_black">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_black">
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_black">
+  <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" target="_black">
+  <img align="center" alt="Lucas-Kotlin" height="28" width="38" src="https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-1-logo.png" target="_black">  
   <img align="right" alt="LucasIMG" height="170" style="border-radius:50px;" src="https://i.pinimg.com/736x/9a/80/55/9a8055a960ffabf28a6378d44913ae82.jpg">
 </div>
   
