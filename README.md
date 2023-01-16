@@ -13,6 +13,7 @@
   <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Lucas-Kotlin" height="28" width="38" src="https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-1-logo.png">  
   <img align="right" alt="LucasIMG" height="170" style="border-radius:50px;" src="https://i.pinimg.com/736x/9a/80/55/9a8055a960ffabf28a6378d44913ae82.jpg">
+  <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
   
   ##
