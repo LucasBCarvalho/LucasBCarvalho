@@ -25,3 +25,5 @@
  <a href="https://discord.gg/3pH4j7jV6R"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucas.carvalho30111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-borges-de-carvalho-57795519b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://lucasborgesdecarvalho.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFÓLIO-64534F?style=for-the-badge&logoColor=white" target="_blank"></a>
+
