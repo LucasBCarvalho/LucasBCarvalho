@@ -20,18 +20,10 @@
   
   ##
  
-<div> 
-<!--   <a href="https://www.youtube.com/channel/UCrWXBVoprywPEsptEvR-Ocg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank"></a>
-  <a href="https://discord.gg/3pH4j7jV6R"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
- <a href="mailto:lucas.carvalho30111@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
-</a>
-  
+<div>   
 <a href="https://www.linkedin.com/in/lucas-borges-de-carvalho/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
 </a>
-<!-- <a href="https://lucasborgesdecarvalho.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-%230077B5?style=for-the-badge&logoColor=white" alt="Portfólio" target="_blank">
-</a> -->
+
 
 
