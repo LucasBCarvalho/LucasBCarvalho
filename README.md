@@ -4,8 +4,10 @@
   Sou desenvolvedor apaixonado por tecnologia, com experiência em desenvolvimento Web (Angular, TypeScript, JavaScript), Mobile (Kotlin) e Backend (PHP, MySQL). Já participei de projetos práticos e imersões que reforçaram minhas habilidades em criar soluções eficientes e escaláveis. Busco constantemente novos desafios e oportunidades de aprendizado para evoluir e contribuir com projetos inovadores.
 </p>
 
+<h3>📊 <b>Estatísticas</b></h3>
 
-## 📊 **Estatísticas**
+---
+
 <div align="left">
   <a href="https://github.com/LucasBorgesDeCarvalho">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasBCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,7 +15,9 @@
   </a>
 </div>
 
-## 📌 **Sobre Mim**
+<h3>📌 <b>Sobre Mim</b></h3>
+
+---
 - 🎓 **Formado em Ciências da Computação** pela Universidade Jorge Amado (UNIJORGE).  
 - 💻 Experiência com Desenvolvimento Web utilizando PHP e MySQL, além de modelagem e gestão de Banco de Dados, com foco em soluções escaláveis e manutenção de sistemas. 
 - 🎓 **Finalista (TOP 300 entre 80 mil)** no **Bootcamp Santander + Ada Tech**.
@@ -21,7 +25,10 @@
 - 🚀 Buscando sempre evoluir em **Arquitetura de Software, DevOps e Inteligência Artificial**.
 - 📫 Você pode me contatar pelo email <a href="mailto:lucas.carvalho30111@gmail.com">lucas.carvalho30111@gmail.com</a>.
 
-## 🚀 **Tecnologias e Ferramentas**
+<h3>🚀 <b>Tecnologias e Ferramentas</b></h3>
+
+---
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -37,7 +44,10 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## 🌐 **Conecte-se comigo**
+<h3>🌐 <b>Conecte-se comigo</b></h3>
+
+---
+
 <div>
   <a href="https://www.linkedin.com/in/lucas-carvalho-95207732b">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
